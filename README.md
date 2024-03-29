@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fb20761b-1abb-491e-a299-9a34c2319f85/deploy-status)](https://app.netlify.com/sites/spl-token-ui/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fb20761b-1abb-491e-a299-9a34c2319f85/deploy-status)](https://app.netlify.com/sites/solanaswift/spl-token-ui/deploys)
 
 </div>
 
