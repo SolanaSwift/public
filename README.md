@@ -32,13 +32,8 @@
 
 What secret types are supported in the manual input secret field?
 
-- Seed phrase
 - Ed25519 comma-separated number array
 - Base58 encoded Ed25519 comma-separated number array
-
-How are seed phrases converted to private keys?
-
-- Seed phrases are converted using the derivation path `m/501'/0'/0/0`
 
 ## How-to
 
